@@ -1,5 +1,5 @@
-
 ![example-virtual-driving-instructor-fullstack](https://github.com/user-attachments/assets/d98acaec-bce4-4061-a9fc-c4351e0767ba)
+(preview photo)
 
 # Virtual Driving Instructor
 
